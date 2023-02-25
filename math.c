@@ -20,7 +20,7 @@ int main()
 
   //multiplicação
   mul = (n1 * n2);
-  printf("Multiplacação\n");
+  printf("Multiplicação\n");
   printf("%d * %d = %d\n", n1,n2, mul);
 
   printf("\n");
