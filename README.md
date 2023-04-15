@@ -1,2 +1,2 @@
 # MathAB
-Operações matemáticas em C
+Operações matemáticas em C.
